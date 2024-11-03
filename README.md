@@ -22,3 +22,16 @@
 
 To run the application, you'll need Python 3.x installed on your computer. You can download it from [python.org](https://www.python.org/).
 
+Code Structure
+The project is structured as follows:
+
+bash
+
+your-companion/
+│
+├── main.py                # Main entry point of the application
+├── typing_test.py         # Module for the typing speed test
+├── math_quiz.py           # Module for the math quiz
+├── expense_tracker.py      # Module for tracking expenses
+├── art_creation.py         # Module for creating art with Turtle graphics
+└── README.md               # Project documentation
