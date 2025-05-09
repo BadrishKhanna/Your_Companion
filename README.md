@@ -4,6 +4,6 @@
 
 ## Research Paper
 
-You can download my research paper titled *"Your Companion"* here:
+You can download the research paper titled *"Your Companion"* here:
 
 [Your_Companion.pdf](https://github.com/user-attachments/files/17609709/Your_Companion.pdf)
